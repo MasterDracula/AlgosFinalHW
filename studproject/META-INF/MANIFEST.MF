@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: asset-v1_SkillFactory+MIFIDEV+SEP2024+type@asset+block@3._hi
+ story_task_lib_архив_проекта.jar Heroes Battle-1.0.0.jar
+

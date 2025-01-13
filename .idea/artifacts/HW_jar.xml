@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HW:jar">
+    <output-path>$PROJECT_DIR$/studproject/.idea</output-path>
+    <root id="archive" name="HW.jar">
+      <element id="module-output" name="HW" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/asset-v1_SkillFactory+MIFIDEV+SEP2024+type@asset+block@3._history_task_lib_архив_проекта.jar" path-in-jar="/" />
+      <element id="library" level="project" name="heroes_task_lib-1.0-SNAPSHOT" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/heroes/Heroes Battle-1.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
